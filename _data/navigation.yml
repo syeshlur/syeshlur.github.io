@@ -1,6 +1,6 @@
 # main links
 main:
-  - about: "About"
+  - title: "About"
     about: /about/
   - title: "Research"
     url: /research/
