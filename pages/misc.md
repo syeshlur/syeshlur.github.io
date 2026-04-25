@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: About
+permalink: /misc/
+title: Misc
 layout: single
 author_profile: true
 ---

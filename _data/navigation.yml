@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "About"
-    about: /about/
+  - title: "Misc"
+    about: /misc/
   - title: "Research"
     url: /research/
   - title: "CV"
